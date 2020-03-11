@@ -7,3 +7,8 @@ An online marketplace which connects travellers to customers who want items over
 3. Run the command python3 run.py and open the link in the browser
 
 ## Demonstration
+![](g1.gif)
+![](g2.gif)
+![](g3.gif)
+![](g4.gif)
+![](g5.gif)
